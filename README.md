@@ -5,7 +5,7 @@ Sample Demo : How to do localization in IOS.
 
 1. Create Localizable.strings file.
 2. Localize the file you want to support language.
-3. In you code call self.titleLbl.text = NSLocalizedString(@"test", nil);
+3. In your code control will be like self.titleLbl.text = NSLocalizedString(@"test", nil);
 4. Your Localization file will look like below
 
 Localizable.strings(Spanish)
